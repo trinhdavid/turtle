@@ -2,7 +2,7 @@ class Turtle:
     '''
     start_x - origin at x position
     start_y - origin at y position
-    direction - the direction the turtle is facing. By default, the turtle is facing NORTH.
+    direction - the direction in which the turtle is facing. By default, the turtle is facing NORTH.
     '''
 
     ####### CONSTANTS - Do not change value
