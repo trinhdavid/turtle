@@ -11,7 +11,7 @@ Here is the snippet of code from run_me.py:
 
 if __name__ == '__main__':
 
-    # Uncomment to run the direction file. The files
+    # Uncomment to run the direction file. Direction files
     # must be located in the same directory as
     # run_me.py. Run only one direction at a time.
     #
