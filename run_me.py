@@ -73,9 +73,9 @@ if __name__ == '__main__':
     # ("FFFLFFLLF" would, for example return: (-1,3)
     #start('directions-0.txt')
 
-    # uncomment to run the test files. The files
+    # Uncomment to run the direction file. Direction files
     # must be located in the same directory as
-    # altml.py
+    # run_me.py. Run only one direction at a time.
     #
     #start('directions-1.txt')
     #start('directions-2.txt')
